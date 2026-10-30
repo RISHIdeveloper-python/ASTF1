@@ -1,4 +1,4 @@
-#ASTF1
+ASTF1
 
 A Python-based AST1 binary asset parser and patching tool.
 
